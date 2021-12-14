@@ -1,6 +1,10 @@
-# Find Royalty Free & Placeholder Image
+# Find Data & Find vedio
 
-A functional Google Extension to help your "readily" generate placeholder image and find the right royalty free images with accessible links that you can use right away!
+制作的原因:
+1.看到別人做chrome工具，覺得很有趣，稍為搜尋一下，找到別人做的範例，所以就做做看。
+2.有時要找程式的資料，總是要切換不同的網站去找資料，覺得很麻煩。在想說是不是一次輸入關鍵字，就可以直接找最大的幾個網站的資料。第一個功能就是這樣。
+3.有時要搜尋教程，在youtube都搜尋不到，所以就將第一個功能，連到幾個大陸比較容易找到程式影片的網站，去做搜尋，方便我找教程。而且找到了就不用再付費去用那些要付費的教程。
+
 
 ## Project First Look
 ![image](https://drive.google.com/uc?export=view&id=1_CtfGnEOlv-00k-QdLLWYN4CdUw2OqGb)
