@@ -12,7 +12,9 @@ chrome://extensions
 
 2.將開發人員模式打開
 3.載入未封裝項目
+
 ![](https://i.imgur.com/DlzCRmQ.png)
 
 4.選擇資料夾
+
 ![](https://i.imgur.com/eDMO7IF.png)
